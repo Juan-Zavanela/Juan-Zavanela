@@ -34,7 +34,7 @@ Na Imerys, atuo em logística e manutenção e uso tecnologia para resolver prob
 - Curso de Java, Nélio Alves (Udemy)
 - Inglês intermediário
 
-## Vamos conversar?
+## Vamos Conversar?
 
 - LinkedIn: www.linkedin.com/in/juan-zavanela
 - E-mail: juanvictorzanela@gmail.com
