@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=200&section=header&text=Juan%20Zavanela&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Java%20%7C%20Dados%20%26%20BI&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=180&section=header&text=Juan%20Zavanela&fontSize=48&fontColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software;Back-end+com+Java+%26+Spring+Boot;Dados+%26+BI+como+diferencial;Transformando+problemas+reais+em+sistemas"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&height=40&lines=Estudante+de+Engenharia+de+Software;Back-end+com+Java+%26+Spring+Boot;Dados+%26+BI+como+diferencial;Transformando+problemas+reais+em+sistemas"/>
 
 <br>
 
