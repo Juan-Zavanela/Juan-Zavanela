@@ -82,8 +82,6 @@ public class JuanZavanela {
 
 ## 📂 Projetos
 
-## 📂 Projetos
-
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | **[Previsão de doença cardíaca com SVM](https://github.com/Juan-Zavanela/heart-failure-svm-prediction)** | Pipeline completo de machine learning: análise exploratória, tratamento de dados, SVM com GridSearchCV e avaliação. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
