@@ -82,7 +82,16 @@ public class JuanZavanela {
 
 ## 📂 Projetos
 
+## 📂 Projetos
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
 | **[Previsão de doença cardíaca com SVM](https://github.com/Juan-Zavanela/heart-failure-svm-prediction)** | Pipeline completo de machine learning: análise exploratória, tratamento de dados, SVM com GridSearchCV e avaliação. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **[Gerenciador de Pedidos](https://github.com/Juan-Zavanela/gerenciador-pedidos)** | Sistema web de pedidos com cálculo de frete, garantia e brindes usando o padrão Decorator, além de Builder, Factory e DAO. Persistência em MySQL. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black) |
+<!-- Quando subir o projeto Spring Boot, adicione uma linha:
+| **[Nome do projeto](link)** | Sistema de gestão de loja em Java/Spring Boot, com modelagem relacional e padrões de projeto (Factory, Builder, Decorator). | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
+-->
+
 ---
 
 ## 🎓 Formação
